@@ -1,0 +1,2 @@
+# DoNotScheduledMySeat
+江西财经大学图书馆座位抢占小工具
